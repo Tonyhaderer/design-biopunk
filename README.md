@@ -21,9 +21,8 @@ Introduction au biopunk.
 Dans un futur proche ou alternatif, où les frontières entre l’humain et la machine s’estompent, une nouvelle forme de rébellion émerge : 
 celle des corps modifiés, des gènes piratés, et des identités reprogrammées. 
 Le biopunk est une vision sombre mais lucide d’un monde où la biotechnologie n’est plus seulement au service de la médecine,
-mais aussi du contrôle, du commerce et de la résistance.
+mais aussi du contrôle, du commerce et de la résistance. Né dans le sillage du cyberpunk, le biopunk troque les implants cybernétiques pour les manipulations de l'ADN, les hackers pour des biochimistes clandestins, et les mégacorporations pour des industries pharmaceutiques omnipotentes. On y croise des clones en quête d'identité, des virus crées en laboratoire pour contrôler les masses, et des individus génétiquement modifiés tentant d'échapper  à leur destin programmé.
 
-Né dans le sillage du cyberpunk, le biopunk troque les implants cybernétiques pour les manipulations de l’ADN, les hackers pour des biochimistes clandestins, et les mégacorporations pour des industries pharmaceutiques omnipotentes. On y croise des clones en quête d’identité, des virus créés en laboratoire pour contrôler les masses, et des individus génétiquement modifiés tentant d’échapper à leur destin programmé.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Origines
@@ -68,7 +67,7 @@ Références culturelles
 "The Windup Girl" de Paolo Bacigalupi (2009)
 → Roman se déroulant dans un monde post-pétrole dominé par des corporations agroalimentaires. Il aborde les OGM, les pandémies artificielles et les êtres humains génétiquement modifiés.
 
-------------------
+
 
 "Gattaca" (1997, d’Andrew Niccol)
 → Une société futuriste où le statut social est déterminé par le patrimoine génétique. Le film questionne la discrimination génétique et la liberté individuelle.
@@ -76,7 +75,7 @@ Références culturelles
 "Splice" (2009, de Vincenzo Natali)
 → Deux scientifiques créent un hybride humain-animal. Un film qui traite des limites éthiques de la biotechnologie.
 
---------------------------
+
 
 "BioShock" (2007)
 → Bien que souvent rangé dans le steampunk ou le retro-futurisme, BioShock repose aussi sur des manipulations génétiques via des plasmides qui modifient les capacités humaines. L’ambiance dystopique et les enjeux éthiques sont très biopunk.
